@@ -1,0 +1,1 @@
+Fichier qui explique le fonctionnement de mon application.
