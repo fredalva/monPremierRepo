@@ -1,1 +1,2 @@
-Fichier qui explique le fonctionnement de mon application.
+Bonjour, Vous trouverez le projet sur github:
+https://github.com/fredalva/monPremierRepo.git
